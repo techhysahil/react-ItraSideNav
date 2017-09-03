@@ -1,0 +1,19 @@
+{
+  "name": "react-ItraSideNav",
+  "version": "1.0.0",
+  "description": "Side NavigationReact component with collapseable and lot of other features",
+  "main": "dist/react-ItraSideNav.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/techhysahil/react-ItraSideNav.git"
+  },
+  "keywords": [
+    "react",
+    "multiselect"
+  ],
+  "author": "Sahil Gupta <https://github.com/techhysahil>",
+  "license": "ISC",
+}
