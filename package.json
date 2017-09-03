@@ -25,11 +25,10 @@
   "bugs": {
     "url": "https://github.com/techhysahil/react-ItraSideNav/issues"
   },
-  "dependencies": {},
   "peerDependencies": {
     "react": "^0.14.7 || ^15.0.0-0",
     "react-dom": "^0.14.7 || ^15.0.0-0"
   },
   "homepage": "https://github.com/techhysahil/react-ItraSideNav",
-  "license": "ISC",
+  "license": "ISC"
 }
